@@ -1,0 +1,78 @@
+# Node
+node_modules/
+
+# Build output
+/build/
+/dist/
+
+# Local env files
+.env
+.env.*.local
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Testing
+/coverage/
+jest-cache/
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Parcel, Vite, Next, Gatsby caches
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.vite/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+dist-*/
+*.tmp
+*.temp
+
+# Build artifacts & static exports
+/build/
+/public/build/
+
+# Yarn Berry
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/patches
+!.yarn/releases/*
+!.yarn/plugins/*
+!.yarn/patches/*
+
+# Typescript cache
+*.tsbuildinfo
+
+# Others
+*.tgz
+.cache-loader
+.expo/
+
+# Optional: ignore local settings
+local.settings.json
+
+# End of file
