@@ -1,6 +1,3 @@
-YONFRV: Hola, me ayudas con el readme de este proyetco ?
-
-Workspace: Collecting workspace information```markdown
 # Proyecto: directory-front
 
 Breve descripción
